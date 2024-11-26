@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>traffic_sim_project_group_2</name>
+  <version>0.0.0</version>
+  <description>
+    Final project ECE 6460 Fall 2023 group 2
+  </description>
+  <maintainer email="mtradovn@oakland.edu">Micho Radovnikovich</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>tf2_ros</depend>
+  <depend>tf2_geometry_msgs</depend>
+  <depend>dynamic_reconfigure</depend>
+</package>
